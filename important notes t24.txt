@@ -1,0 +1,4 @@
+important notes
+how to delete the customer
+User Menu->Customer->Authorise/Delete Customer
+

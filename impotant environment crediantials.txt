@@ -1,0 +1,268 @@
+
+usrname;hkcgdev3/IadKs2AS
+
+https://mufg-chtsft.rickcloud.jp/jira/browse/MUFGCB-216
+
+https://degreed.com/profile/dguserffr20001/overview
+
+
+
+Txn Complete: 100198.0003100.01 19:22:02 09 JUN 2022 LIMIT,MUFG.NAU I
+LIMIT,MUFG.NAU A 100198.0003100.01 
+
+MUFG.LI.FLD.VALIDATION Routine
+VerLIFldValidation JAVA CLASS
+INR1180503003680
+jenkins :
+
+DISPO.ITEMS,HK123356HGKC0DDC*HK0023680,DISPO.STATUS=APPROVED
+
+c-munaik
+Password@1234
+
+puTTY
+**************
+Host Name: 192.168.170.10
+Username : hkcgdev1
+Password : yfY3@dr
+
+
+IndiaDEV1:
+**************
+Telnet(192.168.40.10):
+http://192.168.40.10:9089/TAFJEE
+mufgdev1 / D3v#1mufg
+KUMARI 123456
+http://192.168.40.10:9089/dev1/servlet/BrowserServlet
+
+india generic 
+****************************
+[19:03] Sai Marripudagala, Pavan
+AUTHOR
+
+[19:03] Sai Marripudagala, Pavan
+654321
+
+
+
+
+HKDEV2:
+**************
+Hostname : 192.168.180.10
+http://192.168.180.10:9089/hkdev2/servlet/BrowserServlet
+User : hkdev2
+Password : Hkt24@2
+UPGD11 / Mufg@123
+
+
+192.168.240.10
+hkupg/U99=3nv!
+http://192.168.240.10:9089/hkupg/servlet/BrowserServlet
+
+[16:38] G K, Kumari
+-j com.temenos.t24.mufg.l3.HKEFSXMLHeaderGenerator
+
+[16:38] G K, Kumari
+In putty:
+tShow -j com.temenos.t24.mufg.l3.HKEFSXMLHeaderGenerator 
+
+[16:38] G K, Kumari
+http://192.168.170.10:9089/TAFJEE/xhtml/tshow/dashboard.xhtml
+
+[16:39] G K, Kumari
+infraadmin
+T24@mufg
+
+[16:39] G K, Kumari
+failed to load 'com.temenos.t24.mufg.l3.HKEFSXMLHeaderGenerator'
+
+
+[09:56] Krishna, Murali
+http://192.168.245.10:9089/hkust1/servlet/BrowserServlet
+
+
+VerFxParIdIntUtilUpdate
+HKCB22799
+
+
+
+Description
+important link for syndicate and loans
+https://docs.temenos.com/ndocs/index.html
+
+
+
+Thank you for your email. I’m on optional holiday and will be back at
+During this period I will have limited access to my email.
+For immediate assistance please contact me on my cell phone
+
+[REACT JS]https://capgemini-my.sharepoint.com/:v:/p/razia_mohammad/EX4wK2bx_GBBhnXIN3OvwIIBbJx4F-G0WUWxjs0azL8MvA
+          https://capgemini-my.sharepoint.com/:v:/p/razia_mohammad/EX4wK2bx_GBBhnXIN3OvwIIBbJx4F-G0WUWxjs0azL8MvA
+          http://192.168.225.10:9089/hkdemo/servlet/BrowserServlet
+         2 https://capgemini-my.sharepoint.com/:v:/p/aboli-ashok_babar/ESeBG6qxnKVFgA9bFE63tNcBIp05wFdh7DK9z8TEOwpWCQ
+
+
+
+HKURF:
+******************
+HostName: 192.168.90.10
+User: s
+Pass: hkurf#2@22
+URl:http://192.168.90.10:9089/hkurf/servlet/BrowserServlet
+
+HKUMCK
+******************
+HK UMCK 192.168.91.10 hkumck hkumck#2@22
+http://192.168.91.10:9089/hkumck/servlet/BrowserServlet.
+Temenos@123
+Mufg@123
+HK UMCK    192.168.91.10    hkumck    
+
+
+tRun START.TSM -DEBUG
+
+bitbucket
+[17:15] Talacheeru, Dileep
+c-L3dev
+
+[17:15] Talacheeru, Dileep
+L3dev2022
+
+LD.LOANS.AND.DEPOSITS,MUFG.LOAN.AUTH.ALL A LD2228098169
+
+AAACT222801GSFT49M
+
+D20221109840197306600
+-------------------------------------------------------credential-----------------
+pass - Mkrish@24
+user name -MURALI2
+
+HSR.1
+Mufg@123
+----------
+SHAIK.1
+Mufg@123
+------------------
+ps -ef|grep jboss
+copy id from 3rd line
+kill -9(id)
+cd /app/jboss/bin
+ls -lrt
+startupjboss.sh
+---------------------------------------------------------------------------------
+
+DBTOOLS :
+**********************************************************************
+To create - tUserMgnt --Add -u AHMED -p Mufg@8123
+To Login  - DBTools -u AHMED -p Mufg@8123
+********************************************************************
+LIST-ITEM F.OFS.MESSAGE.QUEUE
+
+tShow -j com.temenos.t24.mufg.l3.VerMdcNextVersionPopulate
+
+HKUST1:
+***********
+hkust1/J1&Xb2E4
+http://192.168.245.10:9089/hkust1/servlet/BrowserServlet
+
+VerFxNdField22Val
+Temenos@123
+
+mm6
+***********
+http://192.168.50.10:8180/mm6/servlet/BrowserServletAUTHOR/123456SSH(192.168.60.10):mufgmm6/Muf9%mm9TAJF: /data/mm6/Temenos/TAFJ
+TEMENOS.01 
+123456
+INPUTT 
+123456
+************************************
+HKURF
+Txn Complete: SHAIK 14:03:22 25 JAN 2023 USER I
+
+Txn Complete: AHMED3 14:04:46 25 JAN 2023 USER I
+https://mufg-chtsft.rickcloud.jp/wiki/pages/viewpage.action?spaceKey=HKCB&title=IND+Upgrade+-+Retrofit+packages
+
+/app/Temenos/TAFJ/data/tafj/classes/com/temenos/t24/mufg/l3     backent path to add class file
+
+/app/jboss/modules/com/temenos/t24/main         new jar place in this 
+
+*****************************************************
+username-  hkdemo    
+Password-   Mu[g@d3v
+
+create own user in hkdemo by J, Sherein
+J, Sherein
+10:38
+
+create own user in hkdemo
+
+Link http://192.168.225.10:9089/hkdemo/serv... by J, Sherein
+J, Sherein
+10:38
+
+http://192.168.225.10:9089/hkdemo/servlet/BrowserServlet
+    
+
+
+
+L3 Consolidated Package - 20220221
+http://localhost:8080/Ecommerce/
+
+
+
+
+https://mufg-chtsft.rickcloud.jp/wiki/display/HKCB/3.11.1+L3+CR+Development
+
+--------------------skill-------------------------
+https://signin.capgemini.com/idp/wwXyL_mPX65zP3c4/resumeSAML20/idp/SSO.ping
+
+https://degreed.com/profile/dguserffr20001/overview
+https://degreed.com/plan/357634
+
+
+ps -ef|grep jboss
+copy id from 3rd line
+kill -9(id)
+ps -ef|grep jboss
+cd /app/jboss/bin
+ls -lrt
+startjboss.sh
+
+Incremental Package || 05-Oct-2023
+
+8581.104.1.GB
+
+1.52.1.GB
+
+
+
+https://temenos.csod.com/ui/lms-learning-details/app/curriculum/0addb5ca-68de-445b-970a-6be28d1e9c49  -  Transact Technical Concepts                      - finished 
+https://temenos.csod.com/ui/lms-learning-details/app/curriculum/333c3398-b3b8-4cde-9f75-27ef69c88bc0  -  Transact Open Financial Service Foundation
+https://temenos.csod.com/ui/lms-learning-details/app/curriculum/c5c1b513-d2ae-4ee1-a8ae-50e1b6600c80  -  Transact Open Financial Service Advanced
+
+ 
+
+ 
+
+ 
+
+https://temenos.csod.com/ui/lms-learning-details/app/curriculum/ff80b647-6f70-417c-8b72-63f3ee181876    - Transact Programming Foundation
+
+ 
+
+https://temenos.csod.com/ui/lms-learning-details/app/curriculum/9e2c70f0-b070-43ef-b4de-a7c38e0b9ceb    -  Transact Extensibility for Java TR3PREFJ
+
+  ACCOUNTS-COUNTERTRFIN-ARRANGEMENT ACCOUNTS-COUNTERTRFOUT-ARRANGEMENT
+
+8581.103.1.GB
+
+MT998|Tag62F is not mapped as per the latest mapping sheet
+
+
+
+
+
+
+Irfan (mohmmed Imaduddin Irfan) Arab International And ...
+
+https://www.consumercomplaints.in/irfan-mohmmed-imaduddin-irfan-arab-international-and-yash-consultancy-fraud-shipping-agent-c1251488
